@@ -1,34 +1,25 @@
-Ecommerce Website
-Proyek ini adalah sebuah situs web e-commerce yang dirancang untuk memfasilitasi penjualan produk secara online. Dengan tampilan yang responsif dan interaktif, situs ini memungkinkan pengguna untuk menjelajahi produk, melakukan transaksi, dan mengelola akun mereka dengan mudah.
+# SerbaAda - E-Commerce Website
 
-Fitur Utama
-Autentikasi Pengguna: Sistem login yang aman untuk petugas dan pengguna.
-Dashboard Admin: Halaman admin untuk mengelola produk, transaksi, dan profil pengguna.
-Halaman Produk: Menampilkan daftar produk dengan deskripsi, harga, dan gambar.
-Sistem Transaksi: Memudahkan pengguna dalam melakukan pembelian dan memantau status transaksi.
-Profil Pengguna: Pengguna dapat mengelola informasi pribadi dan riwayat transaksi mereka.
-Notifikasi: Menggunakan SweetAlert2 untuk menampilkan notifikasi yang menarik kepada pengguna.
-Teknologi yang Digunakan
-Bahasa Pemrograman: PHP
-Front-End: HTML, CSS, JavaScript
-Framework CSS: Bootstrap 5
-Database: MySQL
-Icon Library: Font Awesome, Boxicons
-Notifikasi: SweetAlert2
-Instalasi
-Clone repositori ini ke komputer Anda:
+Selamat datang di **SerbaAda**, platform e-commerce yang dirancang untuk memenuhi semua kebutuhan belanja online Anda! Dengan antarmuka yang intuitif dan berbagai fitur yang memudahkan pengguna, kami menyediakan tempat di mana Anda dapat menemukan produk berkualitas dari berbagai kategori.
 
-bash
-Salin kode
-git clone https://github.com/username/repo.git
-Masuk ke direktori proyek:
+## Preview
 
-bash
-Salin kode
-cd repo
-Sesuaikan pengaturan koneksi database di file config.php.
+![Preview Situs Web](../assets/img/imageP1.png) <!-- Ganti dengan path gambar preview yang sesuai -->
 
-Jalankan server lokal untuk melihat aplikasi di browser Anda.
+## Fitur Utama
 
-Kontribusi
-Kontribusi sangat diterima! Silakan buka issue atau buat pull request jika Anda ingin berkontribusi pada proyek ini.
+- **Beragam Pilihan Produk**: Temukan ribuan produk dari berbagai kategori.
+- **Kemudahan Transaksi**: Proses checkout yang cepat dan aman.
+- **Akses 24/7**: Belanja kapan saja dan di mana saja.
+- **Layanan Pelanggan Responsif**: Tim dukungan siap membantu Anda.
+
+## Cara Membuat Database
+
+Berikut adalah langkah-langkah untuk membuat database dan tabel yang diperlukan untuk aplikasi e-commerce ini.
+
+### 1. Membuat Database
+
+Pertama, Anda perlu membuat database untuk proyek ini. Anda bisa menggunakan phpMyAdmin atau MySQL CLI. Berikut adalah perintah SQL untuk membuat database:
+
+```sql
+CREATE DATABASE serbaada;
