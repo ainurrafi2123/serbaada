@@ -2,6 +2,10 @@
   <img src="https://github.com/ainurrafi2123/serbaada/blob/main/assets/img/serba.png" alt="Logo Toko" width="150px">
 </div>
 
+<div align="center">
+  <h1>SerbaAda</h1>
+</div>
+
 
 
 # SerbaAda - E-Commerce Website
