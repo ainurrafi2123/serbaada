@@ -8,12 +8,20 @@
 
 ![Preview Situs Web](https://github.com/ainurrafi2123/serbaada/blob/main/assets/img/previeweb.png) <!-- Ganti dengan path gambar preview yang sesuai -->
 
+
+## Introduction
+
+SerbaAda adalah platform e-commerce yang dirancang untuk memudahkan penjualan dan pembelian produk secara online. Platform ini memungkinkan pengguna untuk membuat akun sebagai pelanggan atau petugas, mengelola produk, melakukan transaksi, dan mengelola status transaksi. SerbaAda juga mendukung fitur kategori produk, tampilan produk yang menarik, serta integrasi sistem pembayaran sederhana.
+
+
 ## Fitur Utama
 
 - **Beragam Pilihan Produk**: Temukan ribuan produk dari berbagai kategori.
-- **Kemudahan Transaksi**: Proses checkout yang cepat dan aman.
-- **Akses 24/7**: Belanja kapan saja dan di mana saja.
-- **Layanan Pelanggan Responsif**: Tim dukungan siap membantu Anda.
+- **Manajemen Produk**: Tambah, ubah, dan hapus produk dengan mudah.
+- Sistem Kategori: Pengelompokan produk berdasarkan kategori untuk memudahkan pencarian.
+- Manajemen Pengguna: Login sebagai petugas atau pelanggan, dengan akses berbeda untuk masing-masing pengguna.
+- Transaksi: Pembelian produk dengan laporan transaksi dan detail lengkap.
+- Dashboard Admin: Akses untuk mengelola produk, pelanggan, dan petugas.
 
 ## Cara Membuat Database
 
