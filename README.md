@@ -1,4 +1,7 @@
-![Logo Toko](https://github.com/ainurrafi2123/serbaada/blob/main/assets/img/serba.png)
+<div align="center">
+  <img src="https://github.com/ainurrafi2123/serbaada/blob/main/assets/img/serba.png" alt="Logo Toko" width="150px">
+</div>
+
 
 
 # SerbaAda - E-Commerce Website
