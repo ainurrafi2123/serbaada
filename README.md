@@ -14,7 +14,7 @@ Selamat datang di **SerbaAda**, platform e-commerce yang dirancang untuk memenuh
 
 ## Preview
 
-![Preview Situs Web](../assets/img/imageP1.png) <!-- Ganti dengan path gambar preview yang sesuai -->
+![Preview Situs Web](https://github.com/ainurrafi2123/serbaada/blob/main/assets/img/previeweb.png) <!-- Ganti dengan path gambar preview yang sesuai -->
 
 ## Fitur Utama
 
