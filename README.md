@@ -6,8 +6,6 @@
   <h1>SerbaAda</h1>
 </div>
 
-#
-
 ![Preview Situs Web](https://github.com/ainurrafi2123/serbaada/blob/main/assets/img/previeweb.png) <!-- Ganti dengan path gambar preview yang sesuai -->
 
 ## Fitur Utama
