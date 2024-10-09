@@ -6,13 +6,7 @@
   <h1>SerbaAda</h1>
 </div>
 
-
-
-# SerbaAda - E-Commerce Website
-
-Selamat datang di **SerbaAda**, platform e-commerce yang dirancang untuk memenuhi semua kebutuhan belanja online Anda! Dengan antarmuka yang intuitif dan berbagai fitur yang memudahkan pengguna, kami menyediakan tempat di mana Anda dapat menemukan produk berkualitas dari berbagai kategori.
-
-## Preview
+#
 
 ![Preview Situs Web](https://github.com/ainurrafi2123/serbaada/blob/main/assets/img/previeweb.png) <!-- Ganti dengan path gambar preview yang sesuai -->
 
