@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/ainurrafi2123/serbaada/blob/main/assets/img/serba.png" alt="Logo Toko" width="150px">
+  <img src="https://github.com/ainurrafi2123/serbaada/blob/main/assets/img/serba.png" alt="Logo Toko" width="300px">
 </div>
 
 <div align="center">
