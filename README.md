@@ -104,3 +104,43 @@ CREATE TABLE detail_transaksi (
     FOREIGN KEY (id_transaksi) REFERENCES transaksi(id_transaksi),
     FOREIGN KEY (id_produk) REFERENCES produk(id_produk)
 );
+
+```
+## Menjalankan Aplikasi
+
+1. **Instalasi dan Konfigurasi**:
+  Pastikan Anda memiliki server lokal seperti XAMPP atau LAMP.
+  Clone atau unduh proyek ini ke dalam direktori server Anda (htdocs untuk XAMPP).
+  Sesuaikan pengaturan database pada file koneksi.php sesuai dengan pengaturan lokal Anda.
+
+2. **Membuat Database**:
+  Buat database baru menggunakan phpMyAdmin atau MySQL CLI.
+  Import SQL yang telah disediakan di atas untuk membuat tabel-tabel.
+  Menjalankan Aplikasi:
+
+3. **Menjalankan Aplikasi**
+  Buka browser dan akses proyek melalui http://localhost/nama_proyek.
+
+4. **Akses Admin**:
+  Masuk ke halaman admin untuk mengelola produk, kategori, dan pengguna.
+  URL admin: http://localhost/nama_proyek/admin/
+
+## Kemungkinan Pengembangan
+
+- **Integrasi Pembayaran**: Mendukung berbagai metode pembayaran.
+- **Sistem Rekomendasi**: Menyediakan rekomendasi produk berdasarkan riwayat belanja.
+- **Pencarian Produk**: Pencarian produk yang lebih canggih dan interaktif.
+
+## Teknologi Yang Digunakan
+
+- **HTML5 & CSS3**: Untuk antarmuka pengguna.
+- **Bootstrap 5**: Untuk desain responsif.
+- **PHP & MySQL**: Untuk backend dan manajemen data.
+
+##
+Terima kasih telah menggunakan SerbaAda E-commerce! Jika ada pertanyaan atau masalah, jangan ragu untuk membuka issue di GitHub Repo.
+##
+README ini telah dirancang untuk memberikan informasi mendetail tentang proyek Anda dan instruksi yang jelas untuk setup dan menjalankan aplikasi.
+
+
+
