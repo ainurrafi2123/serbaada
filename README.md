@@ -27,10 +27,9 @@ SerbaAda adalah platform e-commerce yang dirancang untuk memudahkan penjualan da
 
 Berikut adalah langkah-langkah untuk membuat database dan tabel yang diperlukan untuk aplikasi e-commerce ini.
 
-### 1. Membuat Database
-
-Membuat Database: Anda dapat menggunakan phpMyAdmin atau MySQL CLI. Buat database baru dan sesuaikan dengan nama database yang digunakan di file koneksi.php.
-Opsional: Jika ingin sama dengan file koneksi.php, gunakan nama toko_online.
+1. **Membuat Database**:
+  Anda dapat menggunakan phpMyAdmin atau MySQL CLI. Buat database baru dan sesuaikan dengan nama database yang digunakan di file koneksi.php.
+  Opsional: Jika ingin sama dengan file koneksi.php, gunakan nama toko_online.
 
 ### 2. Import SQL
 
