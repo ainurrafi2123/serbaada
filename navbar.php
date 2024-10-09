@@ -7,7 +7,7 @@ if (session_status() == PHP_SESSION_NONE) {
 // Memeriksa apakah pengguna sudah login
 if (!isset($_SESSION['status_login']) || $_SESSION['status_login'] != true) {
     // Arahkan pengguna ke halaman login jika belum login
-    header('location: index.php');
+    header('location: /SerbaAda');
     exit; // Pastikan script berhenti setelah pengalihan
 }
 ?>
